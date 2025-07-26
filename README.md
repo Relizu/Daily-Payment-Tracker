@@ -18,3 +18,18 @@ Originally designed for a small business to track who paid and which employee wa
 Install:
 ```bash
 pip install PySide6
+```
+## 📝 Notes
+Made as a first real GUI project
+
+Specialized for daily tracking (not a general accounting app)
+
+Data stored locally in mydata.db SQLite file
+
+Not actively maintained
+
+## 📷 Screenshot
+
+
+## 📖 License
+MIT License — free to use and modify, no warranty.
