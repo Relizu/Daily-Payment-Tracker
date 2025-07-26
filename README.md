@@ -15,10 +15,16 @@ Originally designed for a small business to track who paid and which employee wa
 - Python 3.8+
 - PySide6
 
-Install:
+## Install:
 ```bash
 pip install PySide6
 ```
+
+## Run:
+```bash
+python main.py
+```
+
 ## 📝 Notes
 Made as a first real GUI project
 
