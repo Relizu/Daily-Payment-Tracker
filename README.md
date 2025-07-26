@@ -29,7 +29,7 @@ Data stored locally in mydata.db SQLite file
 Not actively maintained
 
 ## 📷 Screenshot
-
+![Screenshot](assets/Screenshot.png)
 
 ## 📖 License
 MIT License — free to use and modify, no warranty.
