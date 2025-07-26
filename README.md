@@ -1,1 +1,20 @@
-# Daily-Payment-Tracker
+# Daily Customer & Employee Payment Tracker
+
+A simple desktop tool built with PySide6 and SQLite to manage daily records of customers and employees.  
+Originally designed for a small business to track who paid and which employee was responsible.
+
+## 📌 Features
+- Add / remove customers for each day
+- Mark as paid (shows red/green highlight)
+- Assign an employee name
+- Browse days back and forward
+- Data saved locally in SQLite database
+- Quick save shortcut (Ctrl+S)
+
+## ⚙️ Requirements
+- Python 3.8+
+- PySide6
+
+Install:
+```bash
+pip install PySide6
