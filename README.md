@@ -31,5 +31,8 @@ Not actively maintained
 ## 📷 Screenshot
 ![Screenshot](assets/Screenshot.png)
 
+## 🫀Support🐱
+Uhh..., If you somehow find this small project helpful, You can [buy me a coffee](https://buymeacoffee.com/relizu)
+
 ## 📖 License
 MIT License — free to use and modify, no warranty.
