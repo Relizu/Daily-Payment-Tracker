@@ -3,6 +3,7 @@
 A simple desktop tool built with PySide6 and SQLite to manage daily records of customers and employees.  
 Originally designed for a small business to track who paid and which employee was responsible.
 
+
 ## 📌 Features
 - Add / remove customers for each day
 - Mark as paid (shows red/green highlight)
